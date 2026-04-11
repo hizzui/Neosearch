@@ -1,0 +1,1796 @@
+{
+  "0": {
+    "name": "Synthwave",
+    "tracks": [
+      {
+        "id": "0-track-0",
+        "name": "Nightcall",
+        "artist": "Kavinsky",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 240000,
+        "popularity": 70,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-1",
+        "name": "Atlas: Year One",
+        "artist": "FM-84",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 320000,
+        "popularity": 68,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-2",
+        "name": "Vampires",
+        "artist": "The Midnight",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 280000,
+        "popularity": 66,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-3",
+        "name": "Turbo Killer",
+        "artist": "Carpenter Brut",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 300000,
+        "popularity": 64,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-4",
+        "name": "She Is Young",
+        "artist": "Perturbator",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 260000,
+        "popularity": 62,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-5",
+        "name": "Desire",
+        "artist": "Kavinsky",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 230000,
+        "popularity": 60,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-6",
+        "name": "Summer's Gone",
+        "artist": "FM-84",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 310000,
+        "popularity": 58,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-7",
+        "name": "Lost",
+        "artist": "The Midnight",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 270000,
+        "popularity": 56,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-8",
+        "name": "Surgeon",
+        "artist": "Carpenter Brut",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 290000,
+        "popularity": 54,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      },
+      {
+        "id": "0-track-9",
+        "name": "I Don't Love",
+        "artist": "Perturbator",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 250000,
+        "popularity": 52,
+        "album": "Synthwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Synthwave"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Kavinsky",
+      "FM-84",
+      "The Midnight",
+      "Carpenter Brut",
+      "Perturbator"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "1": {
+    "name": "Vaporwave",
+    "tracks": [
+      {
+        "id": "1-track-0",
+        "name": "リサフランク420 / 現代のコンピュ",
+        "artist": "Macintosh Plus",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 540000,
+        "popularity": 70,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-1",
+        "name": "Resonance",
+        "artist": "Home",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 300000,
+        "popularity": 68,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-2",
+        "name": "Enjoy Yourself",
+        "artist": "Saint Pepsi",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 180000,
+        "popularity": 66,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-3",
+        "name": "Floral Shoppe",
+        "artist": "Macintosh Plus",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 300000,
+        "popularity": 64,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-4",
+        "name": "A Short Memory",
+        "artist": "Home",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 260000,
+        "popularity": 62,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-5",
+        "name": "Bitter Fleet Shoals",
+        "artist": "Saint Pepsi",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 240000,
+        "popularity": 60,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-6",
+        "name": "Pink Lemonade",
+        "artist": "Macintosh Plus",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 280000,
+        "popularity": 58,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-7",
+        "name": "Worlds Within Worlds",
+        "artist": "Home",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 320000,
+        "popularity": 56,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-8",
+        "name": "Teens of Denial",
+        "artist": "Saint Pepsi",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 200000,
+        "popularity": 54,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      },
+      {
+        "id": "1-track-9",
+        "name": "Smooth Sailing",
+        "artist": "Home",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 340000,
+        "popularity": 52,
+        "album": "Vaporwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Vaporwave"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Macintosh Plus",
+      "Home",
+      "Saint Pepsi"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "2": {
+    "name": "Darkwave",
+    "tracks": [
+      {
+        "id": "2-track-0",
+        "name": "Enjoy the Silence",
+        "artist": "Depeche Mode",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 240000,
+        "popularity": 70,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-1",
+        "name": "Bela Lugosi's Dead",
+        "artist": "Bauhaus",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 390000,
+        "popularity": 68,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-2",
+        "name": "This Corrosion",
+        "artist": "The Sisters of Mercy",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 310000,
+        "popularity": 66,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-3",
+        "name": "Personal Jesus",
+        "artist": "Depeche Mode",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 200000,
+        "popularity": 64,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-4",
+        "name": "Dark Entries",
+        "artist": "Bauhaus",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 290000,
+        "popularity": 62,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-5",
+        "name": "Walk Away",
+        "artist": "The Sisters of Mercy",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 300000,
+        "popularity": 60,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-6",
+        "name": "Policy of Truth",
+        "artist": "Depeche Mode",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 210000,
+        "popularity": 58,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-7",
+        "name": "Mask",
+        "artist": "Bauhaus",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 320000,
+        "popularity": 56,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-8",
+        "name": "Some Kind of Stranger",
+        "artist": "The Sisters of Mercy",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 280000,
+        "popularity": 54,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      },
+      {
+        "id": "2-track-9",
+        "name": "Stripped",
+        "artist": "Depeche Mode",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 230000,
+        "popularity": 52,
+        "album": "Darkwave Collection",
+        "image": "https://via.placeholder.com/300x300?text=Darkwave"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Depeche Mode",
+      "Bauhaus",
+      "The Sisters of Mercy"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "3": {
+    "name": "Industrial",
+    "tracks": [
+      {
+        "id": "3-track-0",
+        "name": "Closer",
+        "artist": "Nine Inch Nails",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 266000,
+        "popularity": 70,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-1",
+        "name": "Land of Rape and Honey",
+        "artist": "Ministry",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 280000,
+        "popularity": 68,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-2",
+        "name": "Autophagous",
+        "artist": "Coil",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 240000,
+        "popularity": 66,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-3",
+        "name": "Head Like a Hole",
+        "artist": "Nine Inch Nails",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 272000,
+        "popularity": 64,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-4",
+        "name": "Stigmata",
+        "artist": "Ministry",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 290000,
+        "popularity": 62,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-5",
+        "name": "How to Destroy Angels",
+        "artist": "Coil",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 260000,
+        "popularity": 60,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-6",
+        "name": "The Hand That Thieves",
+        "artist": "Nine Inch Nails",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 250000,
+        "popularity": 58,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-7",
+        "name": "Just One Fix",
+        "artist": "Ministry",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 240000,
+        "popularity": 56,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-8",
+        "name": "Windowless Rooms",
+        "artist": "Coil",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 270000,
+        "popularity": 54,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      },
+      {
+        "id": "3-track-9",
+        "name": "Hurt",
+        "artist": "Nine Inch Nails",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 223000,
+        "popularity": 52,
+        "album": "Industrial Collection",
+        "image": "https://via.placeholder.com/300x300?text=Industrial"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Nine Inch Nails",
+      "Ministry",
+      "Coil"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "4": {
+    "name": "Glitch",
+    "tracks": [
+      {
+        "id": "4-track-0",
+        "name": "Tri Repetae",
+        "artist": "Autechre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 480000,
+        "popularity": 70,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-1",
+        "name": "Windowlicker",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 260000,
+        "popularity": 68,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-2",
+        "name": "Journeyman",
+        "artist": "Amon Tobin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 340000,
+        "popularity": 66,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-3",
+        "name": "Clipper",
+        "artist": "Autechre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 360000,
+        "popularity": 64,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-4",
+        "name": "On",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 290000,
+        "popularity": 62,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-5",
+        "name": "ISAM",
+        "artist": "Amon Tobin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 280000,
+        "popularity": 60,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-6",
+        "name": "Pule",
+        "artist": "Autechre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 420000,
+        "popularity": 58,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-7",
+        "name": "Ziggomatic 1",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 270000,
+        "popularity": 56,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-8",
+        "name": "Surge",
+        "artist": "Amon Tobin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 300000,
+        "popularity": 54,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      },
+      {
+        "id": "4-track-9",
+        "name": "Sixfeet",
+        "artist": "Autechre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 400000,
+        "popularity": 52,
+        "album": "Glitch Collection",
+        "image": "https://via.placeholder.com/300x300?text=Glitch"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Autechre",
+      "Aphex Twin",
+      "Amon Tobin"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "5": {
+    "name": "Ambient",
+    "tracks": [
+      {
+        "id": "5-track-0",
+        "name": "Music for Airports",
+        "artist": "Brian Eno",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 1200000,
+        "popularity": 70,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-1",
+        "name": "Virgins",
+        "artist": "Tim Hecker",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 480000,
+        "popularity": 68,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-2",
+        "name": "The Disintegration Loops",
+        "artist": "William Basinski",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 960000,
+        "popularity": 66,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-3",
+        "name": "An Ending",
+        "artist": "Brian Eno",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 300000,
+        "popularity": 64,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-4",
+        "name": "Eden",
+        "artist": "Tim Hecker",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 420000,
+        "popularity": 62,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-5",
+        "name": "Melancholia",
+        "artist": "William Basinski",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 540000,
+        "popularity": 60,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-6",
+        "name": "Music for Films",
+        "artist": "Brian Eno",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 360000,
+        "popularity": 58,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-7",
+        "name": "Depth of Field",
+        "artist": "Tim Hecker",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 480000,
+        "popularity": 56,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-8",
+        "name": "Shortwavemusic",
+        "artist": "William Basinski",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 600000,
+        "popularity": 54,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      },
+      {
+        "id": "5-track-9",
+        "name": "Ambient 1",
+        "artist": "Brian Eno",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 900000,
+        "popularity": 52,
+        "album": "Ambient Collection",
+        "image": "https://via.placeholder.com/300x300?text=Ambient"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Brian Eno",
+      "Tim Hecker",
+      "William Basinski"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "6": {
+    "name": "Cyberpunk",
+    "tracks": [
+      {
+        "id": "6-track-0",
+        "name": "Dream Of Black",
+        "artist": "Lazerhawk",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 300000,
+        "popularity": 70,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-1",
+        "name": "Hunter",
+        "artist": "Gost",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 320000,
+        "popularity": 68,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-2",
+        "name": "Metropolis",
+        "artist": "Perturbator",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 280000,
+        "popularity": 66,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-3",
+        "name": "Computer Vision",
+        "artist": "Lazerhawk",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 290000,
+        "popularity": 64,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-4",
+        "name": "Rave",
+        "artist": "Gost",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 310000,
+        "popularity": 62,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-5",
+        "name": "Neo Tokyo",
+        "artist": "Perturbator",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 270000,
+        "popularity": 60,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-6",
+        "name": "Visitors",
+        "artist": "Lazerhawk",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 310000,
+        "popularity": 58,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-7",
+        "name": "Come Alive",
+        "artist": "Gost",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 300000,
+        "popularity": 56,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-8",
+        "name": "Drown in Blood",
+        "artist": "Perturbator",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 260000,
+        "popularity": 54,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      },
+      {
+        "id": "6-track-9",
+        "name": "Neon",
+        "artist": "Lazerhawk",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 320000,
+        "popularity": 52,
+        "album": "Cyberpunk Collection",
+        "image": "https://via.placeholder.com/300x300?text=Cyberpunk"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Lazerhawk",
+      "Gost",
+      "Perturbator"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "7": {
+    "name": "IDM",
+    "tracks": [
+      {
+        "id": "7-track-0",
+        "name": "Aphex Twin - Selected",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 360000,
+        "popularity": 70,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-1",
+        "name": "Hello Boomerang",
+        "artist": "Squarepusher",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 300000,
+        "popularity": 68,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-2",
+        "name": "An Eagle in Your Mind",
+        "artist": "Boards of Canada",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 360000,
+        "popularity": 66,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-3",
+        "name": "Minipops 67",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 270000,
+        "popularity": 64,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-4",
+        "name": "Atomizer",
+        "artist": "Squarepusher",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 280000,
+        "popularity": 62,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-5",
+        "name": "Everything Painted in Cold Blue",
+        "artist": "Boards of Canada",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 360000,
+        "popularity": 60,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-6",
+        "name": "Quantum Leap",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 240000,
+        "popularity": 58,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-7",
+        "name": "Iambic 9 Poetry",
+        "artist": "Squarepusher",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 310000,
+        "popularity": 56,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-8",
+        "name": "Roygbiv",
+        "artist": "Boards of Canada",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 330000,
+        "popularity": 54,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      },
+      {
+        "id": "7-track-9",
+        "name": "Jottings",
+        "artist": "Aphex Twin",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 180000,
+        "popularity": 52,
+        "album": "IDM Collection",
+        "image": "https://via.placeholder.com/300x300?text=IDM"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Aphex Twin",
+      "Squarepusher",
+      "Boards of Canada"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "8": {
+    "name": "Noise",
+    "tracks": [
+      {
+        "id": "8-track-0",
+        "name": "Pulse Demon",
+        "artist": "Merzbow",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 600000,
+        "popularity": 70,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-1",
+        "name": "Dedicated to the Eradication of all Statues of Lenin",
+        "artist": "Whitehouse",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 480000,
+        "popularity": 68,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-2",
+        "name": "Government Alpha",
+        "artist": "Government Alpha",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 540000,
+        "popularity": 66,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-3",
+        "name": "Venereology",
+        "artist": "Merzbow",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 480000,
+        "popularity": 64,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-4",
+        "name": "Right to Kill",
+        "artist": "Whitehouse",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 420000,
+        "popularity": 62,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-5",
+        "name": "Absolute Power Corrupts Absolutely",
+        "artist": "Government Alpha",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 600000,
+        "popularity": 60,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-6",
+        "name": "Hell Box Protector",
+        "artist": "Merzbow",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 540000,
+        "popularity": 58,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-7",
+        "name": "Great Deathlike Slugs",
+        "artist": "Whitehouse",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 360000,
+        "popularity": 56,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-8",
+        "name": "Bringer of War",
+        "artist": "Government Alpha",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 480000,
+        "popularity": 54,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      },
+      {
+        "id": "8-track-9",
+        "name": "Musica Transonic",
+        "artist": "Merzbow",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 720000,
+        "popularity": 52,
+        "album": "Noise Collection",
+        "image": "https://via.placeholder.com/300x300?text=Noise"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Merzbow",
+      "Whitehouse",
+      "Government Alpha"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "9": {
+    "name": "Witch House",
+    "tracks": [
+      {
+        "id": "9-track-0",
+        "name": "Creep Show",
+        "artist": "Creep Show",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+        "duration_ms": 300000,
+        "popularity": 70,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-1",
+        "name": "oOoOO",
+        "artist": "oOoOO",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 280000,
+        "popularity": 68,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-2",
+        "name": "Ebb",
+        "artist": "White Ring",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 320000,
+        "popularity": 66,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-3",
+        "name": "Nightgown",
+        "artist": "Creep Show",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 290000,
+        "popularity": 64,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-4",
+        "name": "Bloom",
+        "artist": "oOoOO",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 270000,
+        "popularity": 62,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-5",
+        "name": "Queen Phantom",
+        "artist": "White Ring",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 310000,
+        "popularity": 60,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-6",
+        "name": "Beneath the Ground",
+        "artist": "Creep Show",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 280000,
+        "popularity": 58,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-7",
+        "name": "oooooooooooo",
+        "artist": "oOoOO",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 300000,
+        "popularity": 56,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-8",
+        "name": "Rain",
+        "artist": "White Ring",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 340000,
+        "popularity": 54,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      },
+      {
+        "id": "9-track-9",
+        "name": "No Reason",
+        "artist": "Creep Show",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 260000,
+        "popularity": 52,
+        "album": "Witch House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Witch+House"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Creep Show",
+      "oOoOO",
+      "White Ring"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "10": {
+    "name": "EBM",
+    "tracks": [
+      {
+        "id": "10-track-0",
+        "name": "Funkahdafi",
+        "artist": "Front 242",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+        "duration_ms": 300000,
+        "popularity": 70,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-1",
+        "name": "Sequencer",
+        "artist": "Covenant",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 320000,
+        "popularity": 68,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-2",
+        "name": "Electric Sun",
+        "artist": "VNV Nation",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 280000,
+        "popularity": 66,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-3",
+        "name": "Tragedy for You",
+        "artist": "Front 242",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 290000,
+        "popularity": 64,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-4",
+        "name": "Dreams of a Cryotank",
+        "artist": "Covenant",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 310000,
+        "popularity": 62,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-5",
+        "name": "Armour",
+        "artist": "VNV Nation",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 300000,
+        "popularity": 60,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-6",
+        "name": "From Crack to Dawn",
+        "artist": "Front 242",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 320000,
+        "popularity": 58,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-7",
+        "name": "Not Anymore",
+        "artist": "Covenant",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 280000,
+        "popularity": 56,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-8",
+        "name": "Tempus Fugit",
+        "artist": "VNV Nation",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 340000,
+        "popularity": 54,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      },
+      {
+        "id": "10-track-9",
+        "name": "Circling Overland",
+        "artist": "Front 242",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 310000,
+        "popularity": 52,
+        "album": "EBM Collection",
+        "image": "https://via.placeholder.com/300x300?text=EBM"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Front 242",
+      "Covenant",
+      "VNV Nation"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "11": {
+    "name": "Techno",
+    "tracks": [
+      {
+        "id": "11-track-0",
+        "name": "I Want You",
+        "artist": "Carl Cox",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+        "duration_ms": 480000,
+        "popularity": 70,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-1",
+        "name": "Reflecting Their Gaze",
+        "artist": "Charlotte de Witte",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 360000,
+        "popularity": 68,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-2",
+        "name": "Ghosts",
+        "artist": "Nina Kraviz",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 420000,
+        "popularity": 66,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-3",
+        "name": "Two Sides",
+        "artist": "Carl Cox",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 440000,
+        "popularity": 64,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-4",
+        "name": "Losing It",
+        "artist": "Charlotte de Witte",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 380000,
+        "popularity": 62,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-5",
+        "name": "Skyscrapers",
+        "artist": "Nina Kraviz",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 480000,
+        "popularity": 60,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-6",
+        "name": "Just For You",
+        "artist": "Carl Cox",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 460000,
+        "popularity": 58,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-7",
+        "name": "Spectrum",
+        "artist": "Charlotte de Witte",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 400000,
+        "popularity": 56,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-8",
+        "name": "Forward Motion",
+        "artist": "Nina Kraviz",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 420000,
+        "popularity": 54,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      },
+      {
+        "id": "11-track-9",
+        "name": "One More Phase",
+        "artist": "Carl Cox",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 480000,
+        "popularity": 52,
+        "album": "Techno Collection",
+        "image": "https://via.placeholder.com/300x300?text=Techno"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Carl Cox",
+      "Charlotte de Witte",
+      "Nina Kraviz"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "12": {
+    "name": "Acid House",
+    "tracks": [
+      {
+        "id": "12-track-0",
+        "name": "Acid Tracks",
+        "artist": "Phuture",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+        "duration_ms": 420000,
+        "popularity": 70,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-1",
+        "name": "No Way Back",
+        "artist": "Adonis",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 380000,
+        "popularity": 68,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-2",
+        "name": "Acid Level",
+        "artist": "DJ Pierre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 400000,
+        "popularity": 66,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-3",
+        "name": "Iced Coffee",
+        "artist": "Phuture",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 440000,
+        "popularity": 64,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-4",
+        "name": "We Believe",
+        "artist": "Adonis",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 360000,
+        "popularity": 62,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-5",
+        "name": "Vision",
+        "artist": "DJ Pierre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 380000,
+        "popularity": 60,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-6",
+        "name": "Rising Sun",
+        "artist": "Phuture",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 460000,
+        "popularity": 58,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-7",
+        "name": "Deep Inside",
+        "artist": "Adonis",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 400000,
+        "popularity": 56,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-8",
+        "name": "Retro Funk",
+        "artist": "DJ Pierre",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 420000,
+        "popularity": 54,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      },
+      {
+        "id": "12-track-9",
+        "name": "Pulse",
+        "artist": "Phuture",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 440000,
+        "popularity": 52,
+        "album": "Acid House Collection",
+        "image": "https://via.placeholder.com/300x300?text=Acid+House"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Phuture",
+      "Adonis",
+      "DJ Pierre"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "13": {
+    "name": "Trance",
+    "tracks": [
+      {
+        "id": "13-track-0",
+        "name": "Communication",
+        "artist": "Armin van Buuren",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+        "duration_ms": 480000,
+        "popularity": 70,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-1",
+        "name": "Silence",
+        "artist": "Tiësto",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 300000,
+        "popularity": 68,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-2",
+        "name": "Credo",
+        "artist": "Paul Oakenfold",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 360000,
+        "popularity": 66,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-3",
+        "name": "Perpetual Emotion",
+        "artist": "Armin van Buuren",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 420000,
+        "popularity": 64,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-4",
+        "name": "Bright",
+        "artist": "Tiësto",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 420000,
+        "popularity": 62,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-5",
+        "name": "Ready Steady Go",
+        "artist": "Paul Oakenfold",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 380000,
+        "popularity": 60,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-6",
+        "name": "Universal Religion",
+        "artist": "Armin van Buuren",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 480000,
+        "popularity": 58,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-7",
+        "name": "Flight 643",
+        "artist": "Tiësto",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 360000,
+        "popularity": 56,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-8",
+        "name": "Southern Sun",
+        "artist": "Paul Oakenfold",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 340000,
+        "popularity": 54,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      },
+      {
+        "id": "13-track-9",
+        "name": "Blue Fear",
+        "artist": "Armin van Buuren",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 400000,
+        "popularity": 52,
+        "album": "Trance Collection",
+        "image": "https://via.placeholder.com/300x300?text=Trance"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Armin van Buuren",
+      "Tiësto",
+      "Paul Oakenfold"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "14": {
+    "name": "Dubstep",
+    "tracks": [
+      {
+        "id": "14-track-0",
+        "name": "Scary Monsters and Nice Sprites",
+        "artist": "Skrillex",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+        "duration_ms": 360000,
+        "popularity": 70,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-1",
+        "name": "Archangel",
+        "artist": "Burial",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 540000,
+        "popularity": 68,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-2",
+        "name": "Promises",
+        "artist": "Nero",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 420000,
+        "popularity": 66,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-3",
+        "name": "Bangarang",
+        "artist": "Skrillex",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 300000,
+        "popularity": 64,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-4",
+        "name": "Homeless",
+        "artist": "Burial",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 420000,
+        "popularity": 62,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-5",
+        "name": "Two Minds",
+        "artist": "Nero",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 380000,
+        "popularity": 60,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-6",
+        "name": "Kill Everybody",
+        "artist": "Skrillex",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 340000,
+        "popularity": 58,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-7",
+        "name": "Streethalo",
+        "artist": "Burial",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 360000,
+        "popularity": 56,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-8",
+        "name": "Reaching Out",
+        "artist": "Nero",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 360000,
+        "popularity": 54,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      },
+      {
+        "id": "14-track-9",
+        "name": "Right In",
+        "artist": "Skrillex",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 320000,
+        "popularity": 52,
+        "album": "Dubstep Collection",
+        "image": "https://via.placeholder.com/300x300?text=Dubstep"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Skrillex",
+      "Burial",
+      "Nero"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  },
+  "15": {
+    "name": "Experimental",
+    "tracks": [
+      {
+        "id": "15-track-0",
+        "name": "Data-Verse",
+        "artist": "Ryoji Ikeda",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+        "duration_ms": 600000,
+        "popularity": 70,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-1",
+        "name": "United States Live",
+        "artist": "Laurie Anderson",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+        "duration_ms": 480000,
+        "popularity": 68,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-2",
+        "name": "4:33",
+        "artist": "John Cage",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+        "duration_ms": 273000,
+        "popularity": 66,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-3",
+        "name": "Superposition",
+        "artist": "Ryoji Ikeda",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+        "duration_ms": 540000,
+        "popularity": 64,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-4",
+        "name": "Strange Angels",
+        "artist": "Laurie Anderson",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+        "duration_ms": 420000,
+        "popularity": 62,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-5",
+        "name": "Imaginary Landscape 4",
+        "artist": "John Cage",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+        "duration_ms": 360000,
+        "popularity": 60,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-6",
+        "name": "Codex Materia",
+        "artist": "Ryoji Ikeda",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+        "duration_ms": 480000,
+        "popularity": 58,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-7",
+        "name": "Bright Red",
+        "artist": "Laurie Anderson",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+        "duration_ms": 360000,
+        "popularity": 56,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-8",
+        "name": "Water Walk",
+        "artist": "John Cage",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+        "duration_ms": 300000,
+        "popularity": 54,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      },
+      {
+        "id": "15-track-9",
+        "name": "Patterns",
+        "artist": "Ryoji Ikeda",
+        "preview_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+        "duration_ms": 420000,
+        "popularity": 52,
+        "album": "Experimental Collection",
+        "image": "https://via.placeholder.com/300x300?text=Experimental"
+      }
+    ],
+    "count": 10,
+    "artists": [
+      "Ryoji Ikeda",
+      "Laurie Anderson",
+      "John Cage"
+    ],
+    "source": "Mock Data (Realistic Structure)"
+  }
+}
