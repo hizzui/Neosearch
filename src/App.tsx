@@ -1,10 +1,17 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { IngestionPanel } from './components/IngestionPanel';
 import { GraphPanel } from './components/GraphPanel';
 import { DashboardPanel } from './components/DashboardPanel';
 
 export default function App() {
-  const [selectedGenreId, setSelectedGenreId] = useState<string | null>(null);
+  const [selectedGenreId, setSelectedGenreId] = useState<string>(() => 
+    localStorage.getItem('selectedGenreId') || '0'
+  );
+
+  // Persist selection
+  useEffect(() => {
+    localStorage.setItem('selectedGenreId', selectedGenreId);
+  }, [selectedGenreId]);
 
   return (
     <div className="h-screen w-screen flex overflow-hidden bg-brutal-paper selection:bg-brutal-lime selection:text-brutal-black">
