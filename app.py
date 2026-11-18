@@ -1,5 +1,5 @@
 """
-Neosearch — Interactive Music Genre Graph & Audio Preview Explorer (Streamlit + Plotly).
+Streamlit UI for exploring music genre connections and Deezer audio previews.
 """
 
 from __future__ import annotations
@@ -13,7 +13,7 @@ from neosearch.deezer import DeezerClient, build_fallback_tracks
 from neosearch.graph import build_plotly_graph, get_genre_map, load_genres
 
 st.set_page_config(
-    page_title="Neosearch — Music Genre Discovery Graph",
+    page_title="Neosearch",
     page_icon="🎵",
     layout="wide",
 )
