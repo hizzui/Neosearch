@@ -1,42 +1,61 @@
-# Neosearch 🎵
+# Neosearch
 
-An interactive, data-driven music discovery engine that leverages force-directed graph simulations to map organic relationships between musical genres and artists, featuring real-time audio exploration.
+A music genre discovery tool written in **Python** that maps relationships between 16 electronic and underground genres using a spring-force graph layout and streams 30-second track previews via the public **Deezer API**.
 
-## 🚀 Key Features
-
-- **Force-Directed Graph Simulation:** Real-time physics engine (drag, zoom, pan) built with D3.js to visualize complex genre connections.
-- **Integrated Audio Player:** Advanced interactive player with audio controls to preview tracks on the fly.
-- **Custom Cache Management:** Optimized backend data fetching layer to handle external API rate limits and reduce endpoint latency.
-- **Neo-Brutalist Responsive UI:** A bold, modern interface optimized for all screen sizes.
+Includes an interactive **Streamlit + Plotly** frontend (`app.py`) and a **FastAPI** REST service (`api.py`) backed by a 30-minute in-memory TTL cache.
 
 ---
 
-## 🛠️ Tech Stack
+## Project Structure
 
-- **Frontend:** React 19, TypeScript, Vite, D3.js, Tailwind CSS
-- **Backend:** Python, FastAPI, Deezer API, Memory Cache Manager
-- **Deployment:** Vercel (Frontend), Railway (Backend)
+```text
+Neosearch/
+├── data/
+│   └── genres.json          # 16 genre nodes, popularity ratings, and adjacency links
+├── neosearch/
+│   ├── __init__.py
+│   ├── cache.py             # In-memory TTL cache (30m) to avoid redundant API calls
+│   ├── deezer.py            # Public Deezer search client + offline fallback tracks
+│   └── graph.py             # Fruchterman-Reingold spring layout solver & Plotly graph builder
+├── api.py                   # FastAPI endpoints (/api/genres, /api/graph, /api/genre/{id}/tracks)
+├── app.py                   # Streamlit graph explorer and built-in MP3 preview player
+└── requirements.txt
+```
 
 ---
 
-## 📐 Architecture Overview
+## How It Works
 
-The system is split into a decoupled full-stack architecture:
-1. **Backend (FastAPI):** Acts as a high-performance REST API. It handles incoming requests, queries the Deezer API pipeline, processes audio metadata, and aggregates relational node data through an optimized in-memory cache layer.
-2. **Frontend (React 19 & TypeScript):** Manages interactive UI states and feeds structured JSON data into the D3.js simulation engine to compute particle collisions and Coulomb repulsion forces in real-time.
+1. **Force-Directed Layout (`neosearch/graph.py`)**: Computes 2D coordinates for the genre adjacency network using a deterministic Fruchterman-Reingold spring simulation in pure Python and renders the graph with Plotly.
+2. **Audio Previews (`neosearch/deezer.py`)**: Queries `https://api.deezer.com/search` (no OAuth token required) to retrieve track metadata and 30-second MP3 preview streams, falling back to offline sample streams if the network is unavailable.
+3. **TTL Caching (`neosearch/cache.py`)**: Stores fetched track lists in memory for 30 minutes per genre so switching back and forth between nodes is instantaneous.
 
 ---
 
-## 💻 Getting Started
+## Running Locally
 
-### Prerequisites
-
-- Node.js (v18+ recommended)
-- Python 3.10+
-
-### Installation & Setup
-
-1. **Clone the repository:**
+1. **Clone the repository and create a virtual environment:**
    ```bash
-   git clone [https://github.com/rycarvalho/neosearch.git](https://github.com/rycarvalho/neosearch.git)
-   cd neosearch
+   git clone https://github.com/hizzui/Neosearch.git
+   cd Neosearch
+   python -m venv .venv
+   # Windows:
+   .venv\Scripts\activate
+   # Linux / macOS:
+   source .venv/bin/activate
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Streamlit interface:**
+   ```bash
+   streamlit run app.py
+   ```
+
+4. **(Optional) Run the FastAPI service:**
+   ```bash
+   uvicorn api:app --reload --port 8000
+   ```
